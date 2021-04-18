@@ -1,5 +1,5 @@
 /*
-Este programa imprime  el tamaño de las variables en bytes
+Este programa imprime el tamaño de las variables en bytes
 
 @author Diego Galnares
 */
